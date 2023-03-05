@@ -1,0 +1,145 @@
+.footer-basic {
+    padding: 50px 0px;
+    background-color:black;
+    color:#4b4c4d;
+    position: relative;
+    bottom: -200px;
+    height: 200px;
+    width: 100%;
+    top:1em;
+  }
+  
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:5;
+  }
+  
+  .footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+  .footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-basic .social > a:hover {
+    opacity:0.9;
+    color: white;
+  }
+  
+  .footer-basic .copyright {
+    margin-top:-12em;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+  }
+
+  .footer-basic .contact{
+    top: -100px;
+    left: 11em;
+    position: relative;
+  }
+  .footer-basic .contact1{
+     position: relative;
+     top: -7em;
+     left: 10em;
+  }
+  .footer-basic .contact2{
+     position: relative;
+     top: -7.5em;
+     left: 10em;
+  }
+.footer-basic .contact3{
+     position: relative;
+     top: -8em;
+     left: 7em;
+  }
+
+  @media screen and (max-width: 600px) {
+    .footer-basic {
+      position: relative;
+      bottom: -20px;
+      height: 310px;
+      width: 410px;
+      left: -8px;
+
+    }
+    .footer-basic .copyright {
+    margin-top:-4em;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    bottom: -20em;
+  }
+
+
+    .footer-basic .contact{
+    top: 0.5em;
+    left: 10em;
+    position: relative;
+  }
+  .footer-basic .contact1{
+     position: relative;
+     top: -0.7em;
+     left: 8.5em;
+  }
+  .footer-basic .contact2{
+     position: relative;
+     top: -1.5em;
+     left: 8.5em;
+  }
+.footer-basic .contact3{
+     position: relative;
+     top: -3em;
+     left: 6.5em;
+  }
+
+  }
+
+  @media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+
+    .footer-basic {
+      position: relative;
+      bottom: -130px;
+      height: 200px;
+      width: 545px;
+      left: -40px;
+    }
+
+}
+  
+
+  

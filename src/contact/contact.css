@@ -1,0 +1,99 @@
+
+.formform{
+   overflow-y: hidden;
+}
+.formcontainer{
+  top: 0;
+  align-items: center;
+  position: relative;
+  height: 25em;
+ 
+}
+.contactform {
+    text-align: center;
+    position: relative;
+    top: -2em;
+  
+  }
+.messagebox{
+    position: relative;
+    top: -0.5em;
+    width: 610px;
+    left: 12em;
+    height: 2em;
+}
+
+.form-row{
+  width: 1000px;
+}
+
+.col1{
+  align-items: center;
+  position: relative;
+  top: -2em;
+  margin: 5px;
+  left: 12em;
+  width: 300px;
+}
+.col2{
+  align-items: center;
+  position: relative;
+  top: -2em;
+  margin: 5px;
+  left: 12em;
+  width: 300px;
+}
+.btn-block{
+   position: relative;
+   bottom: -12em;
+   right: -9.5em;
+   width: 30.7em;
+}
+
+
+
+
+
+@media screen and (max-width: 600px) { 
+
+  .body{
+     left: -2em;
+  }
+  
+  .col1{
+    position: relative;
+    top: 2em;
+    left: 0em;
+    width: 100px;
+    display: block;
+  }
+  .col2{
+    position: relative;
+    left: 0em;
+    top: 2em;
+    width: 100px;
+   
+  }
+
+.container{
+   align-items: center;
+   overflow: hidden;
+}
+.messagebox{
+  position: relative;
+  top: 3em;
+  width: 12em;
+  left: 0em;
+  height: 20em;
+}
+.btn-block{
+  position: relative;
+  top: -0.5em;
+  left: 0em;
+  width: 10em;
+}
+  
+
+
+}
+

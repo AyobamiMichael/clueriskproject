@@ -1,0 +1,146 @@
+
+.clients{
+   position: relative;
+   top: 5em;
+   left: 35em;
+   color: black;
+  
+}
+.client1{
+   position: relative;
+   top: 7em;
+    color: skyblue;
+  left: 5em;
+  
+}
+.client2{
+   position: relative;
+   top: 5em;
+   left: 18em;
+  color: green
+}
+.client3{
+   position: relative;
+   top: 3em;
+  left: 36em
+}
+.client4{
+   position: relative;
+   top: 1em;
+  left: 52.5em;
+  color: black;
+}
+.client5{
+   position: relative;
+   top: -1em;
+  left: 68em
+}
+.client6{
+   position: relative;
+   top: 2em;
+  left: 8em;
+}
+.client7{
+   position: relative;
+   top: 0.1em;
+   left: 27em;
+}
+.client8{
+   position: relative;
+   top: -2em;
+  left: 53em;
+  color: blue
+}
+
+.client9{
+   position: relative;
+   top: 2em;
+  left: 15em;
+  color: skyblue
+}
+.client10{
+   position: relative;
+   top: 0.1em;
+  left: 45em;
+  color: green
+}
+
+
+@media screen and (max-width: 600px){
+   .clients{
+   position: relative;
+   top: 5em;
+   left: 4em;
+   color: black;
+  
+}
+.client1{
+   position: relative;
+   top: 5em;
+    color: skyblue;
+  left: 2.5em;
+  
+}
+.client2{
+   position: relative;
+   top: 5em;
+   left: 1em;
+  color: orange;
+}
+.client3{
+   position: relative;
+   top: 5em;
+  left: 2em;
+  color:green;
+}
+.client4{
+   position: relative;
+   top: 5em;
+  left: 2em;
+  color: black;
+}
+.client5{
+   position: relative;
+   top: 6em;
+  left: 4.5em
+}
+.client6{
+   position: relative;
+   top: 6em;
+  left: 1em;
+}
+.client7{
+   position: relative;
+   top: 9em;
+   left: 0.5em;
+}
+.client8{
+   position: relative;
+   top: -1.5em;
+  left: 1em;
+  color: blue
+}
+
+.client9{
+   position: relative;
+   top: 2em;
+  left: 1em;
+  color: skyblue
+}
+.client10{
+   position: relative;
+   top: 0.1em;
+  left: 45em;
+  color: green
+}
+
+
+}
+
+
+
+
+
+
+
+

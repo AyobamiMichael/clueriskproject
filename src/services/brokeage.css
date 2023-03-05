@@ -1,0 +1,221 @@
+.servicecontainer{
+   overflow-x: hidden;
+
+}
+.debt{
+    position: relative;
+    right: 0px;
+    left: 23px;
+    color: black;
+}
+.serviceimage{
+    position: relative;
+    width: 100em;
+    height: 10em;
+    right: 7em;
+    margin-bottom: 10em;
+    
+}
+.container {
+    column-width: 250px;
+    column-gap: 20px;
+    
+  }
+  
+  .card {
+    break-inside: avoid;
+  page-break-inside: avoid;
+  background-color: black;
+  border: 2px solid rgb(79, 185, 227);
+  padding: 10px;
+  margin: 0 0 1em 0;
+  }
+  .personalloan{
+     width: 220px;
+     height: 200px;
+     position:relative;
+     margin-left: 8px;
+     margin-top: 8px;
+  }
+  .autofinance{
+    width: 220px;
+    height: 200px;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .mortgageloan{
+    width: 220px;
+    height: 200px;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .smeloan{
+    width: 220px;
+    height: 200px;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .lpo{
+    width: 220px;
+    height: 200px;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .proofoffund{
+    width: 220px;
+    height: 200px;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .startupfunding{
+    width: 220px;
+    height: 200px;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .equityrelease{
+    width: 220px;
+    height: 200px;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .debtconsolidation{
+    width: 220px;
+    height: 200px;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .customerbase{
+    width: 220px;
+    height: 200px;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+
+
+  .p{
+    position: relative;
+    margin-top: 30px;    
+  }
+
+ h2{
+   color: white;
+   position: relative;
+   left: 15px;
+ }
+
+ @media screen and (max-width: 600px) {
+  .serviceimage{
+    position: relative;
+    width: 20em;
+    height: 10em;
+    left: -1.8em;
+    margin-bottom: 10em;
+    
+    }
+    .personalloan{
+      width: 13em;
+      height: 10em;
+      position:relative;
+      margin-left: 8px;
+      margin-top: 8px;
+   }
+   .autofinance{
+    width: 13em;
+    height: 10em;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .mortgageloan{
+    width: 13em;
+    height: 10em;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .smeloan{
+    width: 13em;
+    height: 10em;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .lpo{
+    width: 13em;
+    height: 10em;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .proofoffund{
+    width: 13em;
+    height: 10em;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .startupfunding{
+    width: 13em;
+    height: 10em;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .equityrelease{
+    width: 13em;
+    height: 10em;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .debtconsolidation{
+    width: 13em;
+    height: 10em;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .customerbase{
+    width: 13em;
+    height: 10em;
+    position:relative;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+
+  h2{
+    color: white;
+    position: relative;
+    align-items: center;
+    display: inline;
+  }
+
+ }
+
+ @media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+
+    .serviceimage{
+      position: relative;
+      width: 32em;
+      height: 10em;
+      left: -1.8em;
+      margin-bottom: 10em;
+      
+      }
+
+}
+  
+  
