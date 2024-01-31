@@ -19,11 +19,11 @@ class Footer extends Component {
             </ul>
         
                <p class='contact'>Contact</p>
-               <p class='contact1'>08020717639</p>
-                <p class='contact2'>07020717639</p>
+               <p class='contact1'>07065513313</p>
+                <p class='contact2'></p>
               <p class='contact3'>cluerisksolution@gmail.com</p>
           
-            <p class="copyright">Cluerisk © 2023</p>
+            <p class="copyright">Cluerisk © 2024</p>
         </footer>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
